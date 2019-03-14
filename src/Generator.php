@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+
 namespace rash\guid;
 
 use Webmozart\Assert\Assert;
